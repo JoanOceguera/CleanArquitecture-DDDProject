@@ -1,0 +1,6 @@
+@CleanArquitecture_DDDProject_HostAddress = http://localhost:5164
+
+GET {{CleanArquitecture_DDDProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
